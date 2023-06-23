@@ -61,6 +61,6 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para fazer fork
 
 ## Licença
 
-Este repositório está sob a [licença MIT](lICENSE).
+Este repositório está sob a [licença MIT](licence).
 
                             Vamos explorar o fascinante mundo dos dados juntos!! 📊💡
